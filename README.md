@@ -2,7 +2,7 @@
 
 Live-Sass is a mono-repo designed to compile SASS at runtime using WebAssembly. This allows developers to see style updates in real-time directly in their browser, facilitating a faster and more interactive development process.
 
-![live-sass.gif](..%2F..%2FDownloads%2Flive-sass.gif)
+![live-sass.gif](live-sass.gif)
 
 The web assembly module is built from libsass and compiled with a module federated wrapper for decentralized consumption.
 
